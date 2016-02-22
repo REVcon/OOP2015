@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "equation3", "equation3\equation3.vcxproj", "{3DEC8FAD-E879-4A91-8716-20211537AC73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{AE8E4813-E444-4FC7-A0D4-9BABF35DB4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEC8FAD-E879-4A91-8716-20211537AC73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3DEC8FAD-E879-4A91-8716-20211537AC73}.Debug|Win32.Build.0 = Debug|Win32
+		{3DEC8FAD-E879-4A91-8716-20211537AC73}.Release|Win32.ActiveCfg = Release|Win32
+		{3DEC8FAD-E879-4A91-8716-20211537AC73}.Release|Win32.Build.0 = Release|Win32
+		{AE8E4813-E444-4FC7-A0D4-9BABF35DB4D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE8E4813-E444-4FC7-A0D4-9BABF35DB4D4}.Debug|Win32.Build.0 = Debug|Win32
+		{AE8E4813-E444-4FC7-A0D4-9BABF35DB4D4}.Release|Win32.ActiveCfg = Release|Win32
+		{AE8E4813-E444-4FC7-A0D4-9BABF35DB4D4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
